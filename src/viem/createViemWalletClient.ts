@@ -20,7 +20,7 @@ export function createViemWalletClient() {
 
   // Create an account from the private key
   const account = privateKeyToAccount(
-    process.env.WALLET_PRIVATE_KEY as `0x${string}`
+     `0x${process.env.WALLET_PRIVATE_KEY}`
   );
 
   // Create the wallet client

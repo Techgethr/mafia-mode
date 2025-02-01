@@ -35,7 +35,7 @@ export const tools: Record<string, ToolConfig> = {
   /**
    * Get the connected wallet address.
    */
-  get_Wallet_Address: getWalletAddressTool,
+  get_wallet_address: getWalletAddressTool,
 
   // == WRITE == \\
   /**

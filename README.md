@@ -2,7 +2,7 @@
 
 ## Description
 
-MAFiA is a powerful tool designed to interact with Mode Network (for now in testnet). It leverages OpenAI's GPT-4o-mini model to provide a conversational interface for users to perform various blockchain operations, such as checking wallet balances, sending transactions, and deploying smart contracts. The assistant embodies the persona of Elon Musk, delivering responses with a commanding and cryptic tone.
+MAFiA is a powerful tool designed to interact with Mode Network (for now in testnet). It leverages OpenAI's GPT-4o-mini model to provide a conversational interface for users to perform various blockchain operations, such as checking wallet balances, sending transactions, and deploying smart contracts. The assistant embodies the persona of Al Capone, delivering responses with a commanding and cryptic tone.
 
 ## Features
 
